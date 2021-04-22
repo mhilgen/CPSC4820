@@ -1,8 +1,8 @@
 # These are the Projects I have been working on in CPCS 4820
 
 ### Assignment 1 
-  ***[Link](https://github.com/mhilgen/CPSC4820/tree/main/Assignment1)***<br>
-  *Brief Description:*
+  - {:.indent-3} ***[Link](https://github.com/mhilgen/CPSC4820/tree/main/Assignment1)***<br>
+  - {:.indent-3} *Brief Description:*
 ### Assignment 2
   ***[Link](https://github.com/mhilgen/CPSC4820/tree/main/Assignment2)***<br>
   *Brief Description:*<br>
