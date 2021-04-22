@@ -2,7 +2,7 @@
 
 ### Assignment 1 
   >***[Link](https://github.com/mhilgen/CPSC4820/tree/main/Assignment1)***<br>
-  >*Brief Description:*<
+  >*Brief Description:*>
 ### Assignment 2
   >***[Link](https://github.com/mhilgen/CPSC4820/tree/main/Assignment2)***<br>
   >*Brief Description:*
